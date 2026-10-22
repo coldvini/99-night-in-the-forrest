@@ -36,7 +36,7 @@ the habits you're building, and a scratchpad. Nothing leaves your browser.
 - **Light and dark mode**, following your system or set by hand.
 - **Your data stays yours.** Export and import JSON at any time.
 - **Tabs stay in sync.** Open it in two tabs and they keep each other up to date.
-- **Zero dependencies.** About 500 lines of plain HTML, CSS and JS.
+- **Zero dependencies.** Under 1,000 lines of plain HTML, CSS and JS.
 
 ## Use it
 
