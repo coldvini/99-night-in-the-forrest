@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vishantuwuw.github.io/99-night-in-the-forrest/"><b>▶ Open Daylight</b></a>
+  <a href="https://coldvini.github.io/99-night-in-the-forrest/"><b>▶ Open Daylight</b></a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@ the habits you're building, and a scratchpad. Nothing leaves your browser.
 Built with React 19, TypeScript, Vite and Motion. You need Node 20 or newer.
 
 ```sh
-git clone https://github.com/vishantuwuw/99-night-in-the-forrest.git
+git clone https://github.com/coldvini/99-night-in-the-forrest.git
 cd 99-night-in-the-forrest
 npm install
 npm run dev        # http://localhost:5173
